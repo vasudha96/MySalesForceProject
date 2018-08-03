@@ -5,9 +5,9 @@ class HelloWorld{
 	}
 
 	public satic void main(String[] args){
-		//fggghgfh
+		
 		System.out.println("Hello world... Welcome to git");
-		//gfgdgfrs
+		
 
 	}
 
