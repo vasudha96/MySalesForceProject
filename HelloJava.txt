@@ -1,8 +1,8 @@
 class HelloWorld{
 
-main(){
+public satic void main(){
 
-sysout("Hello world");
+System.out,println("Hello world");
 }
 
 }
