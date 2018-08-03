@@ -8,7 +8,8 @@ class HelloWorld{
 		
 		System.out.println("Hello world... Welcome to git");
 		
-
+		HelloWorld obj = new HelloWorld();
+		obj.myMethod();
 	}
 
 	void heyMethod(){
